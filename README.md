@@ -1,24 +1,26 @@
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+
 # Estate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2, [Node](https://nodejs.org/en/) version 20.10.0, [npm](https://www.npmjs.com/package/npm) 10.5.0. and cloned from *[Developpez-le-front-end-en-utilisant-Angular]( https://github.com/OpenClassrooms-Student-Center/P3-Full-Stack-portail-locataire)*. 
+
+Don't forget to install [NodeJS](https://nodejs.org/fr) and your node_modules before starting with (`npm install`).
 
 ## Start the project
 
-Git clone:
+Go inside folder and install dependencies with `npm install`.
 
-> git clone https://github.com/OpenClassrooms-Student-Center/P3-Full-Stack-portail-locataire
+## Development server
 
-Go inside folder:
+Run `npm start` for a dev server. Navigate to `http://localhost:4200/`.
 
-> cd P3-Full-Stack-portail-locataire
+## Build
 
-Install dependencies:
-
-> npm install
-
-Launch Front-end:
-
-> npm run start;
+Run `npm run` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 
 ## Ressources
